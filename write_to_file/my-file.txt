@@ -1,0 +1,12 @@
+I'm New to Node Entirely
+Doesn't matter
+Learning is pretty fun, I often Learn and practice out side of work.
+Sometimes search onspot.
+
+Progress is I have Learned Lot of JS, Some of Async JS, I know how to use Node but not "node specific features yet'
+they will improve with time
+
+Next I will tackle Express, and Atleast Get You going, The learning can continue on side, Maybe in FallBack, 
+Add Node,Express an hour for both.
+
+// Appending Should start from below:
